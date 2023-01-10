@@ -42,4 +42,4 @@ console.log("Após ser escaneado");
 Testando o código
 </h3>
 <img src="Images\Untitled.png" alt="Screen" width="700" height="350">
-<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"> </h4>
+<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></P></h4>
