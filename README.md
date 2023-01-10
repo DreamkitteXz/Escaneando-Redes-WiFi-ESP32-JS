@@ -15,8 +15,7 @@ Voce irá aprender:
 O Código
 </h3>
 <p>1. Começaremos importando o módulo WiFi mencionado anteriormente. Para importar um módulo no Espruino, basta usar <code>require(“nome do módulo”)</code> e atribuir o resultado a uma variável</p>
-<p align='center'><code>	
-var wifi = require('Wifi');</code></p>	
+<p align='center'><code>var wifi = require('Wifi');</code></p>	
 <p>2. Em seguida, para escanear os pontos de acesso ao redor, basta chamar a função de escaneamento  do módulo WiFi.</p>
 <p align='center'><pre><p><code>	
 function getScanResult(apList){
@@ -24,11 +23,9 @@ function getScanResult(apList){
 }
 </code></p></pre></p>
 <p>3. Vamos então chamar a função scan do módulo WiFi, passando como entrada nossa <code>função getScanResults</code>.</p>
-<p align='center'><code>	
-wifi.scan( getScanResult );</code></p>
+<p align='center'><code>wifi.scan( getScanResult );</code></p>
 <p>4. Você pode verificar o código-fonte completo abaixo.</p>
-<p align='center'><pre><p><code>	
-var wifi = require('Wifi');
+<p align='center'><pre><p><code>var wifi = require('Wifi');
  
 function getScanResult(apList){
   console.log(apList);
