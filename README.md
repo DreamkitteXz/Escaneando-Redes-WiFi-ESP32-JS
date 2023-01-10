@@ -15,8 +15,7 @@ Voce irá aprender:
 O Código
 </h3>
 <p>1. Começaremos importando o módulo WiFi mencionado anteriormente. Para importar um módulo no Espruino, basta usar <code>require(“nome do módulo”)</code> e atribuir o resultado a uma variável</p>
-<p align='center'><code>	
-var wifi = require('Wifi');</code></p>	
+<p align='center'><code>var wifi = require('Wifi');</code></p>	
 <p>2. Em seguida, para escanear os pontos de acesso ao redor, basta chamar a função de escaneamento  do módulo WiFi.</p>
 <p align='center'><pre><p><code>	
 function getScanResult(apList){
@@ -24,11 +23,9 @@ function getScanResult(apList){
 }
 </code></p></pre></p>
 <p>3. Vamos então chamar a função scan do módulo WiFi, passando como entrada nossa <code>função getScanResults</code>.</p>
-<p align='center'><code>	
-wifi.scan( getScanResult );</code></p>
+<p align='center'><code>wifi.scan( getScanResult );</code></p>
 <p>4. Você pode verificar o código-fonte completo abaixo.</p>
-<p align='center'><pre><p><code>	
-var wifi = require('Wifi');
+<p align='center'><pre><p><code>var wifi = require('Wifi');
  
 function getScanResult(apList){
   console.log(apList);
@@ -42,4 +39,8 @@ console.log("Após ser escaneado");
 Testando o código
 </h3>
 <img src="Images\Untitled.png" alt="Screen" width="700" height="350">
+<<<<<<< HEAD
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></P></h4>
+=======
+<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"> </h4>
+>>>>>>> f2eeb9fd639b0639097a8d46e49e21addbe30c74
