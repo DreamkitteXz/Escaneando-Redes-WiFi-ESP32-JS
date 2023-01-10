@@ -38,9 +38,6 @@ console.log("Após ser escaneado");
 <h3 align='center'> 
 Testando o código
 </h3>
-<img src="Images\Untitled.png" alt="Screen" width="700" height="350">
-<<<<<<< HEAD
-<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<p align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></P></h4>
-=======
-<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"> </h4>
->>>>>>> f2eeb9fd639b0639097a8d46e49e21addbe30c74
+<p align='center'><img src="Images\Untitled.png" alt="Screen" width="700" height="350"></P>
+
+<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode ver as redes vizinhas  com o Espruino no ESP32.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"></h4>
